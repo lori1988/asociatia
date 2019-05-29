@@ -19,6 +19,10 @@ html {
 	overflow-y:scroll;
 	background:#fff;	
 }
+/*én kódom*/
+sajatcim { 
+float:left;
+}
 
 body {
 	margin: 0;
