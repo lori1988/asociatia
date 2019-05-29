@@ -273,6 +273,8 @@ header {
 .logo {
   position:relative;
   margin-top:7px;
+  width:70%;
+  height:70%;
 }
 
 .head-info {
